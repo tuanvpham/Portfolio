@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Tuan Portfolio",
   "main": "index.js",
-  "homepage": "https://tuanvpham.github.io/tuan_portfolio",
+  "homepage": "https://tuanvpham.github.io/Portfolio",
   "scripts": {
-	"sass": "node-sass -w scss/ -o dist/css/ --recursive",
-	"deploy": "gh-pages -d dist"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Tuan Pham",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "node-sass": "^4.9.3"
