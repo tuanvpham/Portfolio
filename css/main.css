@@ -232,6 +232,12 @@ main {
   background: #c4c4c4;
   color: #fff; }
 
+.work-repo a:hover {
+  color: #ffc904;
+}
+.work-repo-title {
+  display: inline;
+}
 #main-footer {
   text-align: center;
   padding: 1rem;
